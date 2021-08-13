@@ -1,0 +1,2 @@
+# doom-base
+Basic DOOMDIR
